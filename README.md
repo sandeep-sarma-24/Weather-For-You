@@ -1,4 +1,4 @@
-# Weather Extension
+# Gnome Shell Weather Extension
 
 The Weather Extension is a GNOME Shell extension that displays current weather conditions for user-specified cities in the system panel. It provides a convenient way to access weather information and allows users to customize the cities and refresh the weather data.
 
