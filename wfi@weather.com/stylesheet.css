@@ -1,0 +1,57 @@
+.panel-button1 {
+    background-color: #2a2a2a;
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.panel-button1:hover {
+background-color: #44475a;
+}
+
+.panel-button1:active {
+background-color: #6272a4;
+}
+
+.examplePanelText1 {
+color: #f8f8f2;
+font-weight: bold;
+}
+
+.panel-button1:hover .examplePanelText1 {
+color: #50fa7b;
+}
+
+.panel-button1:active .examplePanelText1 {
+color: #ff79c6;
+}
+
+.popup-menu-item1 {
+background-color: #44475a;
+color: #f8f8f2;
+padding: 10px;
+transition: background-color 0.3s ease;
+}
+
+.popup-menu-item1:active {
+background-color: #6272a4;
+}
+
+.popup-menu-item1:active .popup-menu-item-label {
+color: #50fa7b;
+}
+
+.popup-menu-item1:hover {
+background-color: #6272a4;
+}
+
+.popup-menu-item1:hover .popup-menu-item-label {
+color: #50fa7b;
+}
+
+.panel-button1 {
+background-color: #2a2a2a;
+padding: 5px 10px;
+border-radius: 4px;
+transition: background-color 
+}  

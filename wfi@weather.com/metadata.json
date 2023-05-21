@@ -1,0 +1,8 @@
+{
+    "shell-version": ["42.5"],
+    "name": "wfy",
+    "description": "Weather For You - GNOME Shell Extension",
+    "version": "1.0",
+    "url": "https://github.com/your-username/wfy",
+    "uuid": "wfi@weather.com"
+  }
