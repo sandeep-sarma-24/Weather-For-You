@@ -2,6 +2,10 @@
 
 The Weather Extension is a GNOME Shell extension that displays current weather conditions for user-specified cities in the system panel. It provides a convenient way to access weather information and allows users to customize the cities and refresh the weather data.
 
+## Screenshots
+
+![Screenshot from 2023-05-25 07-25-00](https://github.com/sandeep-sarma-24/Weather-For-You/assets/65862149/b6248739-b7fe-4a9c-a5a4-0c607d258a7b)
+
 ## Features
 
 - Displays the current temperature and weather conditions for user-specified cities.
